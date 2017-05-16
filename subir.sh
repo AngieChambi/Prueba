@@ -6,4 +6,4 @@ git add .
 git commit -a -m "commits"
 git push -u origin master
 
-echo "jejejjejej"
+echo "ver"
